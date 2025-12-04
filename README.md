@@ -1,5 +1,5 @@
 # 💫 About Me
-Currently working on a C++ internal tool for Euro Truck Simulator 2.
+Currently mainly working on a C++ exeternal tool for Euro Truck Simulator 2. (Ghosty)
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1176596419239493642)
