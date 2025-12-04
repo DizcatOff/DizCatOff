@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 My current main project
 Currently mainly working on a C++ exeternal tool for Euro Truck Simulator 2. (Ghosty)
 
 ## 🌐 Socials
