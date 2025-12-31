@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/153353985?v=4" alt="Dizcat" />
-</p>
+
 
 <h1 align="center">About Me :D</h1>
 
