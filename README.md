@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/153353985?v=4" alt="Dizcat" />
 </p>
 
-<h1 align="center">Dizcat</h1>
+<h1 align="center">About Me :D</h1>
 
 <p align="center">
   Passionate developer focused on game tooling, reverse engineering, and performance-driven C++ projects.
