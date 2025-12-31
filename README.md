@@ -3,7 +3,7 @@
   <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1350&q=80" alt="C++ Programming Banner" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Ghosty</h1>
+<h1 align="center">Dizcat</h1>
 
 <p align="center">
   Passionate developer focused on game tooling, reverse engineering, and performance-driven C++ projects.
