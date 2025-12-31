@@ -1,10 +1,53 @@
-# 💫 My current main project
-Currently mainly working on a C++ exeternal tool for Euro Truck Simulator 2. (Ghosty)
+<!-- Banner -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1350&q=80" alt="C++ Programming Banner" />
+</p>
+
+<h1 align="center">👋 Hi, I'm Ghosty</h1>
+
+<p align="center">
+  Passionate developer focused on game tooling, reverse engineering, and performance-driven C++ projects.
+</p>
+
+---
+
+## 💫 Main Project
+🚛 **Ghosty – ETS2 External Tool**  
+I’m currently working on an **external C++ tool for Euro Truck Simulator 2**, focused on:
+- Performance & stability  
+- Clean architecture  
+- Game data interaction  
+- Tooling & automation  
+
+> This project is my primary learning and development focus.
+
+---
+
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
+
+---
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hW7pzJQrrg)
+<p align="left">
+  <a href="https://discord.gg/hW7pzJQrrg">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
-# 💻 Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+---
+
+## 📌 Goals
+- Deepen C++ knowledge (memory, optimization, tooling)
+- Build high-quality external tools
+- Learn more about game internals & reverse engineering
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider following or starring my projects!
+</p>
