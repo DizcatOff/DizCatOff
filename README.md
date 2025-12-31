@@ -15,11 +15,12 @@
 🚛 **Ghosty – ETS2 External Tool**  
 I’m currently working on an **external C++ tool for Euro Truck Simulator 2**, focused on:
 - Performance & stability  
-- Clean architecture  
+- Features
 - Game data interaction  
-- Tooling & automation  
+- Tooling
 
 > This project is my primary learning and development focus.
+> Its already released and stable (https://mysticn7.github.io/Ghosty/)
 
 ---
 
