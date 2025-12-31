@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1350&q=80" alt="C++ Programming Banner" />
+  <img src="https://i.ibb.co/rKrV83GZ/IMG-3258.png" alt="C++ Programming Banner" />
 </p>
 
 <h1 align="center">Dizcat</h1>
