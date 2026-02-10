@@ -17,7 +17,7 @@ I’m currently working on an **external C++ tool for Euro Truck Simulator 2**, 
 - Tooling
 
 > This project is my primary learning and development focus.
-> Its already released and stable (https://mysticn7.github.io/Ghosty/)
+> Its already released and stable (https://dizcatoff.github.io/Ghosty/)
 
 ---
 
