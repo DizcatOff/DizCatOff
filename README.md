@@ -8,20 +8,18 @@
 
 ---
 
-## 💫 Main Project
+## + Main Project
 🚛 **Ghosty – ETS2 External Tool**  
 I’m currently working on an **external C++ tool for Euro Truck Simulator 2**, focused on:
-- Performance & stability  
 - Features
-- Game data interaction  
-- Tooling
+- Performance & stability  
 
-> This project is my primary learning and development focus.
+> This project is my primary learning and development focus. (。・∀・)ノ
 > Its already released and stable (https://dizcatoff.github.io/Ghosty/)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
@@ -30,7 +28,7 @@ I’m currently working on an **external C++ tool for Euro Truck Simulator 2**, 
 
 ---
 
-## 🌐 Socials
+## Socials
 <p align="left">
   <a href="https://discord.gg/hW7pzJQrrg">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
@@ -39,7 +37,7 @@ I’m currently working on an **external C++ tool for Euro Truck Simulator 2**, 
 
 ---
 
-## 📌 Goals
+##  Goals 👈(ﾟヮﾟ👈)
 - Deepen C++ knowledge (memory, optimization, tooling)
 - Build high-quality external tools
 - Learn more about game internals & reverse engineering
