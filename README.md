@@ -3,7 +3,7 @@
 <h1 align="center">DizCat</h1>
 
 <p align="center">
-  Passionate developer focused on game tooling, reverse engineering, and performance-driven C++ projects.
+  Passionate developer focused on game modding mainly, reverse engineering, and C++ projects.
 </p>
 
 ---
