@@ -1,6 +1,6 @@
 
 
-<h1 align="center">About Me :D</h1>
+<h1 align="center">DizCat</h1>
 
 <p align="center">
   Passionate developer focused on game tooling, reverse engineering, and performance-driven C++ projects.
