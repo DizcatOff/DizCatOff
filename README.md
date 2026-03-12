@@ -9,7 +9,7 @@
 ---
 
 ## + Main Project
-🚛 **Ghosty – ETS2 External Tool**  
+ **Ghosty – ETS2 External Tool**  
 I’m currently working on an **external C++ tool for Euro Truck Simulator 2**, focused on:
 - Features
 - Performance & stability  
