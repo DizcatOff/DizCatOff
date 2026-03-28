@@ -15,7 +15,7 @@ I’m currently working on an **external C++ tool for Euro Truck Simulator 2**, 
 - Performance & stability  
 
 > This project is my primary learning and development focus. (。・∀・)ノ
-> Its already released and stable (https://dizcatoff.github.io/Ghosty/)
+> Its already released and stable (https://ghostyworld.lol)
 
 ---
 
